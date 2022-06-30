@@ -15,4 +15,3 @@ function App() {
 }
 
 export default App;
-// {/* {languages.map((item) =><Card {...item}/>)} */}
